@@ -18,4 +18,5 @@ export default function useVisualMode(initial) {
     setHistory(prev => [...prev.slice(0, history.length - 1)]);
   }
   // return last item on the array
-  return { mode: history.slice(-1)[0], transition, back }};
+  return { mode: history.slice(-1)[0], transition, back };
+}
