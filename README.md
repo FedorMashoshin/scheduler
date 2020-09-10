@@ -1,8 +1,8 @@
 # Interview Scheduler
 
-!['Unactive day if there are no spots']()
-!['Day with few open spots']()
-!['Editing appointment']()
+!['Unactive day if there are no spots'](https://github.com/FedorMashoshin/scheduler/commit/b76df7855c0429fa53f9b880644b5d13ae182a4e)
+!['Day with few open spots'](https://github.com/FedorMashoshin/scheduler/blob/master/docs/With%20Spots.png)
+!['Editing appointment'](https://github.com/FedorMashoshin/scheduler/blob/master/docs/Editing.png)
 
 ## Setup
 
